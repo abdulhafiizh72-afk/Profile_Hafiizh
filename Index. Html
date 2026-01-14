@@ -1,0 +1,107 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Abdul Hafiizh Irgiawan | Network Engineer</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }body {
+  background: #0f172a;
+  color: #e5e7eb;
+  line-height: 1.6;
+}
+
+header {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(135deg, #020617, #0f766e);
+}
+
+header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+header p {
+  margin-top: 10px;
+  font-size: 1.1rem;
+  color: #cbd5f5;
+}
+
+section {
+  max-width: 1000px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+.card {
+  background: #020617;
+  border-radius: 12px;
+  padding: 30px;
+  margin-bottom: 30px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+h2 {
+  color: #38bdf8;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+}
+
+ul {
+  list-style: none;
+  margin-top: 10px;
+}
+
+ul li::before {
+  content: "✔ ";
+  color: #22c55e;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  background: #020617;
+  color: #94a3b8;
+}
+
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 2rem;
+  }
+}
+
+  </style>
+</head>
+<body>  <header>
+    <h1>Abdul Hafiizh Irgiawan</h1>
+    <p>Pelajar XI TJKT | Calon Network Engineer</p>
+  </header>  <section>
+    <div class="card">
+      <h2>Profil</h2>
+      <p>Saya adalah siswa kelas <strong>XI TJKT (Teknik Jaringan Komputer dan Telekomunikasi)</strong> yang memiliki minat di bidang jaringan komputer, keamanan siber, dan pengembangan web dasar. Terbiasa bekerja secara rapi, logis, dan bertanggung jawab dalam setiap proyek.</p>
+    </div><div class="card">
+  <h2>Keahlian</h2>
+  <ul>
+    <li>Perakitan dan troubleshooting PC</li>
+    <li>Instalasi dan pengkabelan jaringan (LAN)</li>
+    <li>Konfigurasi dasar jaringan</li>
+    <li>Pembuatan HTML & CSS dasar</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Proyek</h2>
+  <ul>
+    <li>Perakitan PC sesuai kebutuhan pengguna</li>
+    <li>Instalasi kabel jaringan komputer</li>
+    <li>Pembuatan website HTML dasar</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Sert
